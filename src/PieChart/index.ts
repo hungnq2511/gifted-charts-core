@@ -41,6 +41,7 @@ interface IusePieChart {
   tooltipBackgroundColor: any
   tooltipBorderRadius: any
   tooltipWidth: any
+  tooltipHeight: any
   tooltipTextNoOfLines: any
   textColor: any
   textSize: any

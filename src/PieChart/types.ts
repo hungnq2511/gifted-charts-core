@@ -36,6 +36,7 @@ export interface PieChartPropsType {
 
   showTooltip?: boolean
   tooltipWidth?: number
+  tooltipHeight?: number
   tooltipComponent?: Function
   persistTooltip?: boolean
   tooltipDuration?: number
